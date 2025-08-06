@@ -8,4 +8,6 @@
 
 违规处理：站长将根据情况给予提醒、撤回消息或禁言，严重者移出群聊。请大家共同维护白站友好的交流环境！
 
+本群全部文档可在 GitHub 仓库中查阅。URL：<https://github.com/Karlbaey/Karlbaey/blob/main/QQ/Announcement.md>
+
 需要群头衔请私信站长。
