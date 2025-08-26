@@ -29,11 +29,11 @@
 ## 📕Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [程序设计#2 - 序列入门和缓冲输入输出](https://karlbaey.top/articles/program-design-sequence-for-newbies-and-buffering-io-episode-two/)
 - [程序设计#1 - 流程控制](https://karlbaey.top/articles/program-design-process-control-episode-one/)
 - [程序设计#0 - 前期准备](https://karlbaey.top/articles/program-design-preparation-episode-o/)
 - [晚安，卡尔白](https://karlbaey.top/articles/good-night-miss-karlbaey/)
 - [Neko回忆录 Ⅰ](https://karlbaey.top/articles/dear-neko-i/)
-- [Nothing Dawn](https://karlbaey.top/articles/nothing-dawn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😋贡献
