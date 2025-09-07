@@ -29,11 +29,11 @@
 ## 📕Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [程序设计#3%1 - 面向对象程序设计](https://karlbaey.top/articles/program-design-object-oriented-programming-episode-three-p-one/)
 - [程序设计#3 - 结构体和数据结构入门](https://karlbaey.top/articles/program-design-struct-and-data-structures-for-newbie-episode-three/)
 - [程序设计#2 - 序列入门和缓冲输入输出](https://karlbaey.top/articles/program-design-sequence-for-newbies-and-buffering-io-episode-two/)
 - [程序设计#1 - 流程控制](https://karlbaey.top/articles/program-design-process-control-episode-one/)
 - [程序设计#0 - 前期准备](https://karlbaey.top/articles/program-design-preparation-episode-o/)
-- [晚安，卡尔白](https://karlbaey.top/articles/good-night-miss-karlbaey/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😋贡献
