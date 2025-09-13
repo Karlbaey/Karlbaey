@@ -16,7 +16,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Python-m?style=flat-square&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)](//python.org) [![Static Badge](https://img.shields.io/badge/Git-m?style=flat-square&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)](//git-scm.com) [![Static Badge](https://img.shields.io/badge/Node.js-m?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=%235FA04E&color=%235FA04E)](//nodejs.org) [![Static Badge](https://img.shields.io/badge/HTML-m?style=flat-square&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)](//html.spec.whatwg.org) [![Static Badge](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white&labelColor=black&color=black)](https://www.markdown.cn/) [![Static Badge](https://img.shields.io/badge/GitHub-m?style=flat-square&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)](//github.com/Karlbaey101)
 
-### 📕**最近在读**
+### **最近在读**
 
 哈珀·李 *《杀死一只知更鸟》*
 
@@ -26,7 +26,7 @@
 - 摆弄 php 和 Python
 - 学习 HTML、CSS 和 JavaScript 三兄弟
 
-## 📕Latest Blog Posts
+## 📕新作品
 
 <!-- BLOG-POST-LIST:START -->
 - [程序设计#3%1 - 面向对象程序设计](https://karlbaey.top/articles/program-design-object-oriented-programming-episode-three-p-one/)
