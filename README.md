@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E64F7&width=435&lines=Hello!+I'm+Karlbaey!;Welcome+to+my+personal+profile!)](https://git.io/typing-svg)
 
-**✍一个喜欢写写小作品的人**
+✍ **一个喜欢写写小作品的人**
 
 按我跳转 --> [博客](//karlbaey.top)
 
@@ -23,7 +23,7 @@
 ### ☕在忙的事
 
 - 更新[个人博客](//karlbaey.top)
-- 摆弄 php 和 python
+- 摆弄 php 和 Python
 - 学习 HTML、CSS 和 JavaScript 三兄弟
 
 ## 📕Latest Blog Posts
@@ -90,13 +90,13 @@
 
 - 搜索引擎：[Bing](//bing.com)、[Google](//google.com)
 - 文本编辑：
-	- Markdown：[Typora](//typoraio.cn)
-	- Python 和其他：[Visual Studio Code](//code.visualstudio.com/)
+  - Markdown：[Typora](//typoraio.cn)
+- Python 和其他：[Visual Studio Code](//code.visualstudio.com/)
 - 下载：Internet Download Manager
 
 ## 🔗联系我
 
 以下两种联系方式都很欢迎！或者你也可以发送至这个邮箱：[office@karlbaey.top](mailto:office@karlbaey.top)
 
-[![Static Badge](https://img.shields.io/badge/BLOG-m?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=%230288D1&color=%230288D1)](//karlbaey.top) [![Static Badge](https://img.shields.io/badge/EMAIL-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:karlbaey101@outlook.com)
+[![Static Badge](https://img.shields.io/badge/BLOG-m?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=%230288D1&color=%230288D1)](//karlbaey.top) [![Static Badge](https://img.shields.io/badge/EMAIL-m?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=%23005FF9&color=%23005FF9)](mailto:office@karlbaey.top)
 
