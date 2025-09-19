@@ -29,7 +29,7 @@
 ## 📕新作品
 
 <!-- BLOG-POST-LIST:START -->
-- [程序设计#3%2 - 程序的复杂度](https://karlbaey.top/articles/program-design-complexity-of-a-program-episode-three-p-two/)
+- [程序设计#3%2 - 算法的复杂度](https://karlbaey.top/articles/program-design-complexity-of-a-program-episode-three-p-two/)
 - [程序设计#3%1 - 面向对象程序设计](https://karlbaey.top/articles/program-design-object-oriented-programming-episode-three-p-one/)
 - [程序设计#3 - 结构体和数据结构入门](https://karlbaey.top/articles/program-design-struct-and-data-structures-for-newbie-episode-three/)
 - [程序设计#2 - 序列入门和缓冲输入输出](https://karlbaey.top/articles/program-design-sequence-for-newbies-and-buffering-io-episode-two/)
