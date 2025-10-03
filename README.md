@@ -29,11 +29,11 @@
 ## 📕新作品
 
 <!-- BLOG-POST-LIST:START -->
+- [我对各种字体的看法（Go 语言版）](https://karlbaey.top/articles/some-inexplicable-fonts-in-golang-coding/)
 - [程序设计#4 - 【经典算法】双指针和滑动窗口·第一部分](https://karlbaey.top/articles/program-design-two-pointer-algorithm-and-sliding-window-sep-one/)
 - [大半夜听了寂静岭之后](https://karlbaey.top/articles/when-listening-to-silent-hill-2-ost-before-sunrise/)
 - [程序设计#3%2 - 算法的复杂度](https://karlbaey.top/articles/program-design-complexity-of-a-program-episode-three-p-two/)
 - [程序设计#3%1 - 面向对象程序设计](https://karlbaey.top/articles/program-design-object-oriented-programming-episode-three-p-one/)
-- [程序设计#3 - 结构体和数据结构入门](https://karlbaey.top/articles/program-design-struct-and-data-structures-for-newbie-episode-three/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😋贡献
