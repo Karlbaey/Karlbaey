@@ -25,11 +25,11 @@
 ## 📕新作品
 
 <!-- BLOG-POST-LIST:START -->
-- [程序设计#4%2 - 【经典算法】双指针和滑动窗口·第三部分](https://karlbaey.top/articles/program-design-two-pointer-algorithm-and-sliding-window-sep-three/)
-- [程序设计#4%1 - 【经典算法】双指针和滑动窗口·第二部分](https://karlbaey.top/articles/program-design-two-pointer-algorithm-and-sliding-window-sep-two/)
-- [让你的 VS Code 也能写 C++](https://karlbaey.top/articles/to-let-your-vs-code-support-cpp/)
-- [我对各种字体的看法（Go 语言版）](https://karlbaey.top/articles/some-inexplicable-fonts-in-golang-coding/)
-- [程序设计#4 - 【经典算法】双指针和滑动窗口·第一部分](https://karlbaey.top/articles/program-design-two-pointer-algorithm-and-sliding-window-sep-one/)
+- [程序设计#4%2 - 【经典算法】双指针和滑动窗口·第三部分](https://karlbaey.top/posts/program-design-two-pointer-algorithm-and-sliding-window-sep-three/)
+- [程序设计#4%1 - 【经典算法】双指针和滑动窗口·第二部分](https://karlbaey.top/posts/program-design-two-pointer-algorithm-and-sliding-window-sep-two/)
+- [让你的 VS Code 也能写 C++](https://karlbaey.top/posts/to-let-your-vs-code-support-cpp/)
+- [我对各种字体的看法（Go 语言版）](https://karlbaey.top/posts/some-inexplicable-fonts-in-golang-coding/)
+- [程序设计#4 - 【经典算法】双指针和滑动窗口·第一部分](https://karlbaey.top/posts/program-design-two-pointer-algorithm-and-sliding-window-sep-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😋贡献
