@@ -25,11 +25,11 @@
 ## 📕新作品
 
 <!-- BLOG-POST-LIST:START -->
+- [程序设计#5 - 二分查找](https://re.karlbaey.top/articles/program-design-episode-5-binary-search/)
 - [程序设计#4 SP 接雨水的四种解法](https://re.karlbaey.top/articles/program-design-episode-4-sp-trap-rain-water/)
 - [一个让在 UVa 写题目更方便的 VSCode 设置](https://re.karlbaey.top/articles/easier-vsc-cpp-settings-for-uva-online-judge/)
 - [程序设计#4%2 - 【经典算法】双指针和滑动窗口·第三部分](https://re.karlbaey.top/articles/program-design-two-pointer-algorithm-and-sliding-window-sep-three/)
 - [程序设计#4%1 - 【经典算法】双指针和滑动窗口·第二部分](https://re.karlbaey.top/articles/program-design-two-pointer-algorithm-and-sliding-window-sep-two/)
-- [让你的 VS Code 也能写 C++](https://re.karlbaey.top/articles/to-let-your-vs-code-support-cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 😋贡献
